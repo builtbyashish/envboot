@@ -44,11 +44,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishrbuilds/envboot.git"
+    "url": "git+https://github.com/builtbyashish/envboot.git"
   },
-  "homepage": "https://github.com/ashishrbuilds/envboot#readme",
+  "homepage": "https://builtbyashish.github.io/envboot-core/",
   "bugs": {
-    "url": "https://github.com/ashishrbuilds/envboot/issues"
+    "url": "https://github.com/builtbyashish/envboot/issues"
   },
   "keywords": [
     "envboot",

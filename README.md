@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/ashishrbuilds/envboot" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/builtbyashish/envboot" target="_blank" rel="noopener noreferrer">
     <img src="assets/envboot.png" alt="EnvBoot Logo" width="96" />
   </a>
   <h1>EnvBoot</h1>
@@ -10,11 +10,11 @@
 
   <p>
     <a href="https://www.npmjs.com/package/envboot"><img src="https://img.shields.io/npm/v/envboot?color=38bdf8&label=npm%20package" alt="npm version" /></a>
-    <a href="https://github.com/ashishrbuilds/envboot"><img src="https://img.shields.io/github/stars/ashishrbuilds/envboot?style=social" alt="GitHub Stars" /></a>
+    <a href="https://github.com/builtbyashish/envboot"><img src="https://img.shields.io/github/stars/builtbyashish/envboot?style=social" alt="GitHub Stars" /></a>
     <a href="https://www.npmjs.com/package/envboot"><img src="https://img.shields.io/badge/runtime%20dependencies-0-10b981.svg" alt="Runtime Dependencies" /></a>
     <a href="https://www.npmjs.com/package/envboot"><img src="https://img.shields.io/badge/runtimes-Node%20%7C%20Bun%20%7C%20Deno-a855f7" alt="Node / Bun / Deno" /></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT" /></a>
-    <a href="https://ashishrbuilds.github.io/envboot-core/"><img src="https://img.shields.io/badge/docs-live-4f46e5?style=flat&logo=github" alt="Documentation" /></a>
+    <a href="https://builtbyashish.github.io/envboot-core/"><img src="https://img.shields.io/badge/docs-live-4f46e5?style=flat&logo=github" alt="Documentation" /></a>
   </p>
 
   <br />
@@ -497,14 +497,14 @@ console.log(status.presentRequired); // string[]
 
 ## 📄 License
 
-MIT © [Ashish Ranjan](https://github.com/ashishrbuilds) & [EnvBoot Contributors](https://github.com/ashishrbuilds/envboot/graphs/contributors)
+MIT © [Ashish Ranjan](https://github.com/builtbyashish) & [EnvBoot Contributors](https://github.com/builtbyashish/envboot/graphs/contributors)
 
 ---
 
 <div align="center">
-  <a href="https://ashishrbuilds.github.io/envboot-core/">📖 Documentation</a> &bull;
+  <a href="https://builtbyashish.github.io/envboot-core/">📖 Documentation</a> &bull;
   <a href="https://www.npmjs.com/package/envboot">📦 npm</a> &bull;
-  <a href="https://github.com/ashishrbuilds/envboot/issues">🐛 Issues</a>
+  <a href="https://github.com/builtbyashish/envboot/issues">🐛 Issues</a>
   <br/>
-  Made with ❤️ by <a href="https://github.com/ashishrbuilds">@ashishrbuilds</a>
+  Made with ❤️ by <a href="https://github.com/builtbyashish">@builtbyashish</a>
 </div>

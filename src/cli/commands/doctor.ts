@@ -78,7 +78,7 @@ export async function runDoctor(options: DoctorCommandOptions = {}): Promise<boo
     ...(projectInfo.packageJson?.dependencies || {}),
     ...(projectInfo.packageJson?.devDependencies || {}),
   };
-  const envbootVersion = deps["envboot"] || deps["@ashishrbuilds/envboot"];
+  const envbootVersion = deps["envboot"] || deps["@builtbyashish/envboot"] || deps["@ashishrbuilds/envboot"];
   if (envbootVersion) {
     console.log(`  ${pc.green("✓")} Package dependency: envboot (${envbootVersion})`);
   } else if (projectInfo.packageJson) {
